@@ -15,3 +15,5 @@ A single-page portfolio showcasing my data analytics projects, built with HTML a
 - Email: harrisonomolewa@gmail.com
 
 
+
+
